@@ -1,14 +1,14 @@
 {
-  "name": "portfolio",
+  "name": "portfolio_website",
   "version": "1.0.0",
-  "description": "Responsive Portfolio Website",
+  "description": "This is a responsive portfolio website",
   "main": "index.js",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
-  "author": "Suyash",
-  "license": "ISC",
+  "author": "Suyash Bajpai",
+  "license": "MIT",
   "dependencies": {
-    "node-sass": "^4.11.0"
+    "node-sass": "^4.9.2"
   }
 }
