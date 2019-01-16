@@ -1,8 +1,9 @@
 $primary-color: #444;
 $secondary-color: #9ac1ea;
 $show-home-image: true;
-$home-image: url(../img/dev1.jpg  );
+$home-image: url(../img/dev3.jpg  );
 $bg-opacity: 0.8;
+$portfolio-img: url(../img/portfolio.jpg );
 
 @mixin easeOut{
   transition: all 0.7s ease-out;
